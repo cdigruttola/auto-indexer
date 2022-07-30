@@ -1,5 +1,5 @@
 {
-  "name": "zapalm/auto-indexer",
+  "name": "cdigruttola/auto-indexer",
   "type": "library",
   "version": "1.0.2",
   "description": "Recursively adds a index.php file in all given directories.",
